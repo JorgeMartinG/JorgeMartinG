@@ -4,8 +4,3 @@ Hi There! I'm Jorge Martin, a SysAdmin and DevOps Enthusiast passionate about ex
 <p align="center"> 
     Welcome to my space on GitHub! 🚀 
 </p>
-<div align="center">
-    <a href="https://www.linkedin.com/in/jorgemarting/">
-        <img src=":/assets/LinkedIn.gif" alt="LinkedIn Badge"/>
-    </a>
-</div>
