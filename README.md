@@ -5,7 +5,7 @@ Hi There! I'm Jorge Martin, a SysAdmin and DevOps Enthusiast passionate about ex
     Welcome to my space on GitHub! 🚀 
 </p>
 <div align="center">
-    <a href="https://www.linkedin.com/in/jorgemarting/">
+    <a href="https://www.linkedin.com/in/jorgemarting/" target="_blank">
         <img src="assets/LinkedIn.gif" alt="LinkedIn Badge"/>
     </a>
 </div>
